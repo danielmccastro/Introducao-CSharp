@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\03-MetodosSobrecarregados\bin\Debug\net9.0\03-MetodosSobrecarregados.exe
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\03-MetodosSobrecarregados\bin\Debug\net9.0\03-MetodosSobrecarregados.deps.json
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\03-MetodosSobrecarregados\bin\Debug\net9.0\03-MetodosSobrecarregados.runtimeconfig.json
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\03-MetodosSobrecarregados\bin\Debug\net9.0\03-MetodosSobrecarregados.dll
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\03-MetodosSobrecarregados\bin\Debug\net9.0\03-MetodosSobrecarregados.pdb
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\03-MetodosSobrecarregados\obj\Debug\net9.0\03-MetodosSobrecarregados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\03-MetodosSobrecarregados\obj\Debug\net9.0\03-MetodosSobrecarregados.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\03-MetodosSobrecarregados\obj\Debug\net9.0\03-MetodosSobrecarregados.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\03-MetodosSobrecarregados\obj\Debug\net9.0\03-MetodosSobrecarregados.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\03-MetodosSobrecarregados\obj\Debug\net9.0\03-MetodosSobrecarregados.sourcelink.json
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\03-MetodosSobrecarregados\obj\Debug\net9.0\03-MetodosSobrecarregados.dll
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\03-MetodosSobrecarregados\obj\Debug\net9.0\refint\03-MetodosSobrecarregados.dll
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\03-MetodosSobrecarregados\obj\Debug\net9.0\03-MetodosSobrecarregados.pdb
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\03-MetodosSobrecarregados\obj\Debug\net9.0\03-MetodosSobrecarregados.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\03-MetodosSobrecarregados\obj\Debug\net9.0\ref\03-MetodosSobrecarregados.dll
