@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\04-EstudoDeCasoClassePessoa\obj\Debug\net9.0\04-EstudoDeCasoClassePessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\04-EstudoDeCasoClassePessoa\obj\Debug\net9.0\04-EstudoDeCasoClassePessoa.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\04-EstudoDeCasoClassePessoa\obj\Debug\net9.0\04-EstudoDeCasoClassePessoa.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\04-EstudoDeCasoClassePessoa\obj\Debug\net9.0\04-EstudoDeCasoClassePessoa.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\04-EstudoDeCasoClassePessoa\obj\Debug\net9.0\04-EstudoDeCasoClassePessoa.sourcelink.json
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\04-EstudoDeCasoClassePessoa\bin\Debug\net9.0\04-EstudoDeCasoClassePessoa.exe
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\04-EstudoDeCasoClassePessoa\bin\Debug\net9.0\04-EstudoDeCasoClassePessoa.deps.json
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\04-EstudoDeCasoClassePessoa\bin\Debug\net9.0\04-EstudoDeCasoClassePessoa.runtimeconfig.json
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\04-EstudoDeCasoClassePessoa\bin\Debug\net9.0\04-EstudoDeCasoClassePessoa.dll
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\04-EstudoDeCasoClassePessoa\bin\Debug\net9.0\04-EstudoDeCasoClassePessoa.pdb
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\04-EstudoDeCasoClassePessoa\obj\Debug\net9.0\04-EstudoDeCasoClassePessoa.dll
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\04-EstudoDeCasoClassePessoa\obj\Debug\net9.0\refint\04-EstudoDeCasoClassePessoa.dll
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\04-EstudoDeCasoClassePessoa\obj\Debug\net9.0\04-EstudoDeCasoClassePessoa.pdb
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\04-EstudoDeCasoClassePessoa\obj\Debug\net9.0\04-EstudoDeCasoClassePessoa.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\04-EstudoDeCasoClassePessoa\obj\Debug\net9.0\ref\04-EstudoDeCasoClassePessoa.dll
