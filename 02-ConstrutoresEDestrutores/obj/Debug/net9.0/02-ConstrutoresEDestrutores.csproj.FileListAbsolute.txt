@@ -1,0 +1,14 @@
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\02-ConstrutoresEDestrutores\obj\Debug\net9.0\02-ConstrutoresEDestrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\02-ConstrutoresEDestrutores\obj\Debug\net9.0\02-ConstrutoresEDestrutores.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\02-ConstrutoresEDestrutores\obj\Debug\net9.0\02-ConstrutoresEDestrutores.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\02-ConstrutoresEDestrutores\obj\Debug\net9.0\02-ConstrutoresEDestrutores.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\02-ConstrutoresEDestrutores\bin\Debug\net9.0\02-ConstrutoresEDestrutores.exe
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\02-ConstrutoresEDestrutores\bin\Debug\net9.0\02-ConstrutoresEDestrutores.deps.json
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\02-ConstrutoresEDestrutores\bin\Debug\net9.0\02-ConstrutoresEDestrutores.runtimeconfig.json
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\02-ConstrutoresEDestrutores\bin\Debug\net9.0\02-ConstrutoresEDestrutores.dll
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\02-ConstrutoresEDestrutores\bin\Debug\net9.0\02-ConstrutoresEDestrutores.pdb
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\02-ConstrutoresEDestrutores\obj\Debug\net9.0\02-ConstrutoresEDestrutores.dll
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\02-ConstrutoresEDestrutores\obj\Debug\net9.0\refint\02-ConstrutoresEDestrutores.dll
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\02-ConstrutoresEDestrutores\obj\Debug\net9.0\02-ConstrutoresEDestrutores.pdb
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\02-ConstrutoresEDestrutores\obj\Debug\net9.0\02-ConstrutoresEDestrutores.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Documentos\projetos\Introducao-CSharp\02-ConstrutoresEDestrutores\obj\Debug\net9.0\ref\02-ConstrutoresEDestrutores.dll
